@@ -100,6 +100,10 @@ a {
     background: #000;
 }
 
+.nav-list {
+    color: #D1D1D1;
+}
+
 .nav-list a{
     display: inline-block;
     color: #D1D1D1;
@@ -120,6 +124,10 @@ a {
 .banner-inner {
     width: 50%;
     flex-direction: column;
+}
+
+.banner-inner a {
+    display: inline-block;
 }
 
 .banner-title {
